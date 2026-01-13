@@ -1,5 +1,5 @@
 {
     "data-folder": "../../../Data/",
 
-    "vendor-auth-token": ""
+    "dydx-indexer-api-rest": "https://indexer.dydx.trade/v4"
 }
